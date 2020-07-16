@@ -1,4 +1,4 @@
-URL to forked codepen https://codepen.io/Berthalynn/pen/pogovYG?editors=1100
+URL to forked codepen: https://codepen.io/Berthalynn/pen/PoZaoXM?editors=1100
 
     1. What is Semantic HTML? 
         Semantic HTML is using HtML markups to reinforce the meaning of the information
@@ -93,3 +93,18 @@ URL to forked codepen https://codepen.io/Berthalynn/pen/pogovYG?editors=1100
         create pull request
 
 
+
+Stretch Review questions: 
+    1. What is the difference between an inline element and a block element?
+        Block elements take up the full width available on the page, Inline elements only take up enough width needed to display the contents of the element.
+    2. What happens when an element is positioned absolutely?
+         the element is positioned in an exact location on the page, effecting the positions of elements both before and after it in the HTML
+    3. How do I make an element take up only the amount of space it needs but also have the ability to give it a width? 
+        display: inline-block
+    4. Name 3 elements that are diplay block by default, 2 elements that are display inline by default and 1 element that is display inline-block by default
+        address, footer, and nav are block by default; anchor and button are inline by default; img is inline-block by default
+    5. In your own words, explain the box model. What is the fix for the box model? 
+        the box model contains 4 boxes nested inside each other. the inner box is the content(the text, images, etc of the page), the next box is the padding(a 
+        buffer between the content and the border), the next box is the border(which is pretty much a glorified box displayed around the content), and last is 
+        the margin(which is the buffer between the border and the edges of the page).
+        
